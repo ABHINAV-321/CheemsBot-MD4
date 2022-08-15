@@ -68,9 +68,9 @@ global.vcardowner = ['919495029709'] //ur owner number
 
 global.ownername = "💖𝙰𝙱𝙷𝙸𝙽𝙰𝚅_𝚂𝙴𝚁💝" //ur owner name
 
-global.ytname = "YT: 𝙾𝙽 𝚈𝚃 𝙴𝙽𝙽𝙰 𝚂𝙰𝙳 AKKI🥲" //ur yt chanel name
+global.ytname = "YT: 𝙽𝙾 𝚈𝚃 𝙴𝙽𝙽𝙰 𝚂𝙰𝙳 AKKI🥲" //ur yt chanel name
 
-global.socialm = "GitHub: mr_Abhi0_0" //ur github or insta name
+global.socialm = "𝚒𝚗𝚜𝚝𝚊: Mr_Abhi0_0" //ur github or insta name
 
 global.location = "India, Kerala, thrissur" //ur location
 
@@ -88,7 +88,7 @@ global.linkz = "" //your theme url which will be displayed on whatsapp
 
 global.websitex = "https://abhinav-321.github.io/web_page/" //ur website to be displayed
 
-global.botscript = 'https://github.com/AMRUSIR/AMRU-SER-MD' //script link
+global.botscript = 'https://github.com/ABHINAV-321/CheemsBot-MD4' //script link
 
 global.reactmoji = "🙂" //ur menu react emoji
 
